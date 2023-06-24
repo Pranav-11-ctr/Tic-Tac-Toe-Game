@@ -1,0 +1,32 @@
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:bold;
+    color: white;
+}
+table 
+{
+    margin: auto;
+}
+
+table tr td{
+    border: 1px solid red;
+   /* padding: 20px; */
+}
+
+.button-container
+{
+    display: flex;
+    justify-content: center; 
+    margin: 10px;
+}
+
+.button-container button
+{
+    background-color: rgb(24, 24, 105);
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+}
